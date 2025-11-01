@@ -70,13 +70,14 @@ O feedback ao usuário é exibido com **mensagens flutuantes (toasts)** que indi
 ---
 
 ## 🧠 Autor
-Desenvolvido por **[Paulo César de Azevedo Silva Cotrim]**, aluno de Análise e Desenvolvimento de Sistemas da Universidade Veiga de Almeida (UVA).
+Desenvolvido por **Paulo César de Azevedo Silva Cotrim**, aluno de Análise e Desenvolvimento de Sistemas da Universidade Veiga de Almeida (UVA).
 
 ---
 
 ## 🌍 Acesso Online
 
-- 🌐 **Site publicado no GitHub Pages:**  
+- 🌐 **Site publicado no GitHub Pages:**
+  https://paulorj33.github.io/atividade3-esperanca-viva/projetos.html#saude
   
 - 🔗 **Repositório público no GitHub:**  
-  
+  https://github.com/paulorj33/atividade3-esperanca-viva/tree/main
