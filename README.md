@@ -79,5 +79,4 @@ Desenvolvido por **Paulo César de Azevedo Silva Cotrim**, aluno de Análise e D
 - 🌐 **Site publicado no GitHub Pages:**
   https://paulorj33.github.io/atividade3-esperanca-viva/projetos.html#saude
   
-- 🔗 **Repositório público no GitHub:**  
-  https://github.com/paulorj33/atividade3-esperanca-viva/tree/main
+- 🔗 **Repositório público no GitHub:**  https://github.com/paulorj33/atividade3-esperanca-viva/tree/main
