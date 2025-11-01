@@ -70,7 +70,7 @@ O feedback ao usuário é exibido com **mensagens flutuantes (toasts)** que indi
 ---
 
 ## 🧠 Autor
-Desenvolvido por **Paulo César de Azevedo Silva Cotrim**, aluno de Análise e Desenvolvimento de Sistemas da Universidade Veiga de Almeida (UVA).
+Desenvolvido por **Paulo César de Azevedo Silva Cotrim**.
 
 ---
 
