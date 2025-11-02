@@ -77,6 +77,6 @@ Desenvolvido por **Paulo César de Azevedo Silva Cotrim**.
 ## 🌍 Acesso Online
 
 - 🌐 **Site publicado no GitHub Pages:**
-  https://paulorj33.github.io/atividade3-esperanca-viva/projetos.html#saude
+  https://paulorj33.github.io/atividade3-esperanca-viva/index.html
   
 - 🔗 **Repositório público no GitHub:**  https://github.com/paulorj33/atividade3-esperanca-viva/tree/main
